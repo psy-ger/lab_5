@@ -1,0 +1,228 @@
+@media only screen and (max-device-width: 480px) {
+
+.inblock1{
+	
+}
+.block1{
+	height: 200px;
+
+}
+
+.TEST_TASK_{
+	margin-left: -250px;
+	font-size: 66px;
+
+}
+.template {
+	font-size: 56px;
+	margin-left: -250px;
+}
+.block2{
+
+	height: 950px;
+}
+.inblock2 {
+	
+	height: 950px;
+}
+.inblock2 img{
+	position: absolute;
+	top: 470px;
+	left: 100px;
+}
+
+.iOS_apps_for_free {
+	font-size: 120px; 
+	 position: absolute;
+	 left: 270px;
+	 top: 100px;
+	 width: 1000px;
+
+
+}
+
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+  font-size: 60px;
+  position: absolute;
+  left: 470px;
+  top: 580px;
+  width: 800px;
+
+}
+
+
+.more_info {
+  font-size: 76px;
+ 
+
+}
+
+.btn1{
+	width: 470px;
+	height: 120px;
+	position: absolute;
+	top: 900px;
+	left: 600px;
+
+	
+}
+
+
+.Ellipse_1_copy_2 {
+  left: 1300px;
+  top: 1100px;
+  width: 50px;
+  height: 50px;
+}
+.Ellipse_1_copy {
+  left: 1250px;
+  top: 1100px;
+  width: 50px;
+  height: 50px;
+}
+.Ellipse_1 {
+ 
+  left: 1200px;
+  top: 1100px;
+  width: 50px;
+  height: 50px;
+  z-index: 16;
+}
+.block3{
+	height: 4000px;
+}
+.inblock3{
+	height: 4000px;
+}
+.hr1{
+  width :0px;
+}
+
+.hr2{
+width: 0px;
+}
+.hr3{
+  width :0px;
+}
+
+.hr4{
+width: 0px;
+}
+.text3{
+	font-size:120px;
+	position: absolute;
+	left: 300px;
+	width: 1000px;
+}
+
+.container{
+	position: absolute;
+	left: 400px;
+	top: 1400px;
+
+}
+.container img{
+	width: 400px;
+	height: 400px;
+}
+
+.container h3{
+	font-size: 90px;
+}
+
+.container p{
+	font-size: 60px;
+}
+
+.btn{
+	width: 400px;
+	height: 100px;
+}
+
+.container a{
+font-size: 60px;
+}
+
+.block4{
+	height: 3200px;
+	width: 100%;
+}
+
+.inbclok4{
+	height: 3200px;
+}
+.inblock4left{
+	position: absolute;
+	left: 100px;
+	width: 1300px;
+	height: 1300px;
+	margin-top: 200px;
+}
+
+.inblock4right{
+	position: absolute;
+	left: 100px;
+	width: 1300px;
+	height: 1550px;
+	margin-top: 1550px;
+}
+.Test_task{
+	font-size: 120px;
+}
+
+.Lorem{
+	font-size: 50px;
+}
+
+.Skills{
+	font-size: 100px;
+}
+.progress{
+	height: 90px;
+}
+.progress a{
+	font-size: 50px;
+}
+
+
+.block5 {
+	
+	margin-top: 2600px;
+}
+.block5 div{
+	position: absolute;
+font-size: 60px;
+left: 270px;
+}
+#map-container-google-2 iframe{
+height: 600px;
+width: 1300px;
+}
+
+.heightM1{
+	height: 200px;
+	margin-top: 10px;
+}
+.heightM12{
+	height: 200px;
+	margin-top: 5px;
+}
+
+#exampleFormControlInput1{
+	font-size: 80px;
+}
+
+.heightM{
+	height: 300px;
+}
+
+.SEND{
+	width: 400px;
+	height: 100px;
+	left: 900px;
+	top: 1440px;
+
+
+}
+
+}
